@@ -119,4 +119,4 @@ T!about- Tells you about the development team/discord group
 
             	""")            
 client = MyClient()
-client.run('process.env.Bot_TOKEN')
+client.run('NzA5MDgzNTM0NjAxNDg2MzM2.XrgwuQ.mXSsmWPohS0a1rrMEAgyfNtEUx4')
